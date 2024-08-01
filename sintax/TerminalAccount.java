@@ -1,3 +1,5 @@
+package sintax;
+
 import java.util.Scanner;
 
 public class TerminalAccount {
